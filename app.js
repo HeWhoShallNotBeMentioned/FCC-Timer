@@ -41,7 +41,7 @@ document.getElementById("submit").onclick = function()
   {myFunction();};
 
 function myFunction() {
-
+  document.getElementById("completed").innerHTML = "";
   var x = Number(document.getElementById("textbox").value);
   console.log("value from x in box:  ", x);
   console.log("type of x  ", typeof x);
