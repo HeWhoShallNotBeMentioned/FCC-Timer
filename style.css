@@ -1,0 +1,59 @@
+
+body {
+  background-image: url("http://p.motionelements.com/stock-video/timelapse/me1586815-time-background-hd-a0060.jpg");
+  background-color: #F5F3EE;
+}
+
+h1 {
+  background-color: #7D1935;
+  font-family: 'Crimson Text', serif;
+  color: white;
+  padding: 20px;
+  margin: 30px 0px;
+  border-radius: 10px;
+}
+
+.btn-dark {
+  background-color: #4A96AD;
+  margin: 10px 0px 20px;
+  font-family: 'Lobster', cursive;
+}
+
+#textform {
+  background-color: #7D1935;
+  border-radius: 10px;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  padding-top: 10px;
+}
+
+#textbox {
+  text-align: right;
+  margin-top: 10px;
+}
+
+#displayTime {
+  padding-top: 50px;
+  font-size: 25px;
+}
+
+#timebox {
+  background-color: #F5F3EE;
+  border-radius: 10px;
+  padding: 20px 0px;
+}
+
+.time {
+  font-family: 'Graduate', cursive;
+  color: #4A96AD;
+  margin-right: 10px;
+  margin-left: 3px;
+}
+
+#completed {
+  margin-top: 30px;
+  font-size: 72px;
+  background-color: #F5F3EE;
+  border-radius: 10px;
+  color: #7D1935;
+}
